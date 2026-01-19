@@ -19,3 +19,4 @@ based on medical and lifestyle attributes.
 ```bash
 streamlit run app.py
 
+⭐ Built as part of an AI/ML learning journey
