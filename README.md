@@ -1,4 +1,4 @@
-# 🏥 Healthcare Risk Score Prediction
+# Healthcare Risk Score Prediction
 
 This project predicts a patient's healthcare risk score using **Linear Regression**
 based on medical and lifestyle attributes.
@@ -19,4 +19,4 @@ based on medical and lifestyle attributes.
 ```bash
 streamlit run app.py
 
-⭐ Built as part of an AI/ML learning journey
+ Built as part of an AI/ML learning journey
